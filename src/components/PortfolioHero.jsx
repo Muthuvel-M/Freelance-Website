@@ -4,7 +4,7 @@ import Expertise from "./Expertise";
 import Work from "./Work";
 import Experience from "./Experience";
 import Blog from "./Blog";
-import Feedback from "./feedback";
+import Feedback from "./Feedback";
 import Question from "./Question";
 import Footer from "./Footer";
 

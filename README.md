@@ -7,4 +7,4 @@ A sleek and modern portfolio website showcasing my expertise in web design, UI/U
 ✅ Testimonials, expertise, and work showcase sections
 ✅ Contact section with social media links
 
-## 🔗 Live Demo: [Add your website link here]
+## 🔗 Live Demo: https://freelance-webpage.netlify.app/
